@@ -1,0 +1,23 @@
+{
+  "name": "dsi-pe-p11",
+  "version": "1.0.0",
+  "description": "* Autor: Saúl Pérez García",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \"node dist/index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostream07/dsi-pe-p11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostream07/dsi-pe-p11/issues"
+  },
+  "homepage": "https://github.com/ostream07/dsi-pe-p11#readme",
+  "devDependencies": {
+    "tsc-watch": "^4.2.9"
+  }
+}
